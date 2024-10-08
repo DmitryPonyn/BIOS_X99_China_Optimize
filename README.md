@@ -15,3 +15,5 @@
 7. [Hidden bios settings list - Des1de & CatGamerOP](https://docs.google.com/document/d/1KIW7D9tCcv5sBBCh9qR6S-jZSsvTKQFwtOfBhkaBD4E/edit)
 8. [Intel Hidden Bios Setting Guide Scewin By Ancel](https://docs.google.com/document/d/1ztCWHU2vCG9hnD_94VhlnsLJq1-0Mq7OwhjF79JsYgA/edit)
 9. Свои методы реализации некоторых моментов при настройке.
+10. [S3TurboTool](https://4pda.to/forum/index.php?showtopic=1015953)
+11. [Overclockers](https://forums.overclockers.ru/viewtopic.php?f=1&t=602922&start=520)
