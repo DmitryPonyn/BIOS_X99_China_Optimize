@@ -18,3 +18,5 @@
 10. [S3TurboTool](https://4pda.to/forum/index.php?showtopic=1015953)
 11. [Overclockers 2011-3](https://forums.overclockers.ru/viewtopic.php?f=1&t=602922&start=520)
 12. [Разгон ОЗУ x99 Overclockers](https://forums.overclockers.ru/viewtopic.php?f=4&t=622568)
+
+## 1. Подбор биоса для своей материнской платы
