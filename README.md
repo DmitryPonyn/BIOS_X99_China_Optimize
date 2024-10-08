@@ -16,4 +16,5 @@
 8. [Intel Hidden Bios Setting Guide Scewin By Ancel](https://docs.google.com/document/d/1ztCWHU2vCG9hnD_94VhlnsLJq1-0Mq7OwhjF79JsYgA/edit)
 9. Свои методы реализации некоторых моментов при настройке.
 10. [S3TurboTool](https://4pda.to/forum/index.php?showtopic=1015953)
-11. [Overclockers](https://forums.overclockers.ru/viewtopic.php?f=1&t=602922&start=520)
+11. [Overclockers 2011-3](https://forums.overclockers.ru/viewtopic.php?f=1&t=602922&start=520)
+12. [Разгон ОЗУ x99 Overclockers](https://forums.overclockers.ru/viewtopic.php?f=4&t=622568)
