@@ -46,5 +46,6 @@
 2. Нажимаем "Прошить BIOS" и выбераем тот биос который мы скачали, после чего начинаем прошивку. 
 3. По её завершении выключаем ПК и сбрасываем биос перемычкой или батарейкой. 
 4. Включаем комп и заходим в BIOS. 
-5. Идём по пути IntelRCSetup>OverClocking Feature
+5. Идём по пути IntelRCSetup>OverClocking Feature. 
+6. Изменяем OverClocking Feature с Disabled на Enabled. 
 </details>
