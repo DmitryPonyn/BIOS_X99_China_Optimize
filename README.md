@@ -110,14 +110,23 @@
 <summary>Если хотим</summary>
 
 1. Скачиваем [Rufus](https://github.com/DmitryPonyn/BIOS_X99_China_Optimize/raw/refs/heads/main/software/rufus-4.5p.exe) и записываем флешку с такими параметрами:
+
 ![](https://github.com/DmitryPonyn/BIOS_X99_China_Optimize/blob/main/images/rufus.png)
-3. Выбераем тип драйвера PEI.
-4. Ставим галочку на "Смещение напряжения" и выставляем -40 Core и -40 Cache. Снимаем галочку с пункта "Код биппера в драйвер" и нажимаем "Собрать драйвер".
-5. В S3TurboTool нажимаем UEFITool
-6. В появившейся утилите UEFITool открываем биос
-7. Раскрываем список и идём по пути "Intel image > BIOS region > 8C8CE578-...(самый нижний, в котором PEI драйверы) >"
-8. Находим 271DD6F2-... (модуль PchS3Peim)
-9. Правый клик по нему, нажимаем "Replace as is...", выбираем собранный ранее драйвер (находится в папке S3TurboHack).
-10. Прошиваем биос и наслаждаемся.
+
+2. Скачиваем [Unlock.zip](https://github.com/DmitryPonyn/BIOS_X99_China_Optimize/raw/refs/heads/main/software/Unlock.zip) и распаковываем в любую папку.
+3. Открываем файл v3_payne.asm через блокнот и начинаем проверять значения андервольта на ядро.
+4. Для этого изменяем строчку "CoreVOffset" с -0 на -100.
+5. Запускаем батник !compile.cmd после чего у нас создастся файл 1.efi.
+6. Скачиваем [USB.zip](https://github.com/DmitryPonyn/BIOS_X99_China_Optimize/raw/refs/heads/main/software/USB.zip) и распаковываем на флешку.
+7. Файл 1.efi переносим в корень той же флешки.
+8. Прошиваем наш модифицированный биос.
+9. Перезагружаемся и попадаем в биос через который запускаемся с флешки.
+10. После того, как загрузится оболочка, появится сообщение "Press ESC in 5 seconds to skip startup.nsh or any other key to continue". Нажимаем ESC.
+11. Смотрим на Mapping Table и определяем, как смонтировалась наша флешка и диск, на котором установлена ОС. На скриншоте видно, что в данном случае, флешка смонтировалась как FS0, а диск как FS1. Чтобы избежать путаницы можно временно отключить все не системные накопители.
+
+![](https://github.com/DmitryPonyn/BIOS_X99_China_Optimize/blob/main/images/mapping-table.jpg)
+
+12. Правый клик по нему, нажимаем "Replace as is...", выбираем собранный ранее драйвер (находится в папке S3TurboHack).
+13. Прошиваем биос и наслаждаемся.
 </details>
 </details>
