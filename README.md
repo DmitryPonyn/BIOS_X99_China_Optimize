@@ -215,5 +215,6 @@
 Если выше, то 2133.
 
 Если же камень v4, то 2400.
-2. 
+2. "Command Timing" ставим на 1N.
+3. Начинаем снижать тайминг "CAS Latency" до 14 и проводим тест памяти в [testmem5](https://github.com/DmitryPonyn/BIOS_X99_China_Optimize/raw/refs/heads/main/software/TM5.zip) с профилем Extreme1 @anta777 и ждём не менее 20 минут. При последующих изменениях таймингов нужно будет постояно проводить этот тест.
 </details>
