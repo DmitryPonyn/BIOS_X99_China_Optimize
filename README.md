@@ -73,6 +73,6 @@
 </details>
 
 <details>
-<summary>26xx v3</summary>
+<summary>Анлок турбобуста 26xx v3 + FIVR</summary>
 
 </details>
