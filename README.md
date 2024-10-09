@@ -36,6 +36,7 @@
 
 ## 2. Разгон/анлок турбобуста(если процессор v4 пропускай) 
 
+<details>
 <summary>Разгон 16xx v3<summary/>
 
-<details>
+</details>
