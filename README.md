@@ -33,3 +33,5 @@
 ![](https://github.com/DmitryPonyn/BIOS_X99_China_Optimize/blob/main/images/BIOS_check.png)
 
 Если всё сошлось то прекрасно, значит мы скачали то что нужно.
+
+##Разгон/анлок турбобуста(если процессор v4 пропускай) 
