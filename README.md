@@ -227,6 +227,6 @@
 
 ДЛЯ ТЕХ У КОГО ДДР3:
 
-Проверь скорость памяти и если она у тебя аномально низкая скорость памяти, то попробуй в биосе установить параметр "SET Throttlling Mode" (находится в IntelRCSetup -> Memory Configuration -> Memory Thermal) в значение OLTT
+Проверь скорость памяти и если она у тебя аномально низкая, то попробуй в биосе установить параметр "SET Throttlling Mode" (находится в IntelRCSetup -> Memory Configuration -> Memory Thermal) в значение OLTT
 
 # 6. Выставляем шину ровно 100
